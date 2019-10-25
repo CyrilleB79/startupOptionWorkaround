@@ -4,7 +4,9 @@
 * NVDA compatibility: 2017.3 to 2019.3
 * Download [development version][2]
 
-This add-on provides a work-around to solve a Windows 10 issue that makes NVDA start after logon even when this option is disabled in General settings panel. This is however not a definitive fix for this issue.
+This add-on provided a work-around to solve a Windows 10 1903 issue that makes NVDA start after logon even when this option is disabled in General settings panel. On Octobre 24th 2019, Microsoft fixed the issue in KB4522355 (available via Windows Update). Thus it is recommanded to install this update.
+
+This add-on remains available as an archive but it has become useless and should be uninstalled.
 
 ## Description of the issue
 
